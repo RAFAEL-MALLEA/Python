@@ -27,6 +27,8 @@ print("  *   *")
 print("  *   *")
 print("  *****")
 
+
+### resultados
 print("Pequena con pocos prints:")
 print("    *\n","  * *\n", " *   *\n","*     *\n",end="")
 print("***   "*2,"\n  *   *"*2,"\n ","*"*5)
